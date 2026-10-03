@@ -30,6 +30,7 @@ local BRAND_NAME = "Script PRIVATE By Mati"
 local AUTHORIZED_USER_IDS = {
 	[2693243847] = true,
 	[9676922714] = true,
+	[7183441935] = true,
 }
 
 local PRIVATE_COLORS = {
